@@ -1,0 +1,20 @@
+{% extends 'tpo/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="container" style="margin-top: 2%">
+			<div>
+				<h5 style="color: #000080">Previous Recruiters</h5>
+			</div>
+			<div>
+				<div id="contact-panel" class="panel">
+					{% for i in x %}
+                    <ul>
+                        <li>{{ i }}</li>
+                    </ul>
+                    {% endfor %}
+				</div>
+			</div>
+		</div>
+{% endblock %}
+
