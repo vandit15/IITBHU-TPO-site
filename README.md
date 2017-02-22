@@ -4,8 +4,8 @@ Semester 2 project
 It is the proposed site for IIT(BHU) as a project for the Information Technology-II course.
 
 ##**Requirements**
-Django - >=1.9
-MySQLdb 5.7
+* Django - >=1.9
+* MySQLdb 5.7
 
 ## Front End
 The front-end framework is based on Materialize framework. It gives a avid look to the site along with maintaining a good user experience.
