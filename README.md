@@ -1,7 +1,7 @@
 # IITBHU-TPO-site
 Semester 2 project
 
-It is the proposed site for IIT(BHU) as a project for the Information Technology-II course.
+It is the proposed site for IIT(BHU) as a project for the Information Technology II course.
 
 ##**Requirements**
 * Django - >=1.9
